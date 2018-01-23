@@ -1,11 +1,19 @@
-package JAVA8.ch04DataHyougen;
+/*
 
-import java.awt.HeadlessException;
+1. 練習内容：
+　データ表現（Unicode）
+
+2.「Java8問題集」の関連チャプター：
+　ch.4. コンピューターで扱うデータ表現
+
+*/
+
+package JAVA8.ch04DataHyougen;
 
 public class Zisshuumondai {
 	public static void main(String[] args){
-		
-		System.out.println("問題72　文字に対応するユニコード出力");
+
+		//問題72　文字に対応するユニコード出力		
 			char ch_A='あ';
 			char ch_I='い';
 			char ch_U='う';
@@ -25,15 +33,15 @@ public class Zisshuumondai {
 			System.out.println(Integer.toHexString(code_U) ); 
 			System.out.println(Integer.toHexString(code_E) ); 
 			System.out.println(Integer.toHexString(code_O) ); 
-			
-		System.out.println('\n'+"問題73　文字に対応するユニコードで、文字を表示"); //MEMO 「\n」は、改行のexcape code
+
+		//問題73　文字に対応するユニコードで、文字を表示			
 			System.out.print('\u3042'); //MEMO back slashは、MacではOptionキーを押しながら書かなければならない
 			System.out.print('\u3044');
 			System.out.print('\u3046'); 
 			System.out.print('\u3048'); 
 			System.out.println('\u304a'); 
-			
-		System.out.println('\n'+"問題74　文字に対応するユニコード出力");
+
+		//問題74　文字に対応するユニコード出力			
 			char char_Yo='よ';
 			char char_U='う';
 			char char_Ko='こ';
@@ -59,7 +67,7 @@ public class Zisshuumondai {
 			System.out.println(Integer.toHexString(int_v)); 
 			System.out.println(Integer.toHexString(int_a)); 
 
-		System.out.println('\n'+"問題75　ユニコードに対応する文字出力");
+		//問題75　ユニコードに対応する文字出力
 			System.out.print('\u3088'); 
 			System.out.print('\u3046'); 
 			System.out.print('\u3053'); 
