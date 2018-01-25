@@ -4,18 +4,18 @@ public class Zisshuumondai {
 	
 	public static void main(String args[]){
 		
-		//関係演算：オブジェクト比較と文字列比較の区分
+		//関係演算子「==」：String型で使うとオブジェクト比較で、文字列比較ではない。
 			String st1 = "abc";
 			String st2 = "ab";
 			st2 = st2 + "c";
 			
-			boolean bn = st1 == st2; //MEMO「==」は、オブジェクト比較用　→　false出力
+			boolean bn = st1 == st2;
 			System.out.println(bn); 
 			
 			bn = st2 == "abc";
-			System.out.println(bn); //MEMO 同上
+			System.out.println(bn);
 			
-			bn = st2.equals("abc"); //MEMO Stringクラスの「equals」メソッドは、文字列比較　→　true出力
+			bn = st2.equals("abc"); //MEMO Stringクラスの「equals」メソッドは、文字列比較。
 			System.out.println(bn); 
 	}
 }
