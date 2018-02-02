@@ -12,7 +12,10 @@ public class Zisshuumondai {
 			System.out.println(groupNo[3]); 
 		
 		//多次元配列の宣言、生成、初期化
-			int[][] tajigen = {{10, 20, 400, 700}, {20, 200, 500, 800}, {30, 300, 600, 900}};
+			int[][] tajigen = {{10, 20, 400, 700}, //MEMO 多次元配列の行と列をキレイに整理重要
+							   {20, 200, 500, 800},
+							   {30, 300, 600, 900}};
+			
 			System.out.println(tajigen[0][0]); 
 						
 	}

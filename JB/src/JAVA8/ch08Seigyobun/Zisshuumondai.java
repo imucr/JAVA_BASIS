@@ -56,8 +56,9 @@ public class Zisshuumondai {
 			
 		//for文で、配列の要素の中で最大値を求めて表示
 			int[] array = {1, 2, 3, 4, 5};
-			int amax = 0; int chk = 0;
+			int amax = 0;
 			for(int i5 = 0; i5 < array.length; i5++){ //MEMO 仕組み：配列を順番に読みながら、もっと大きい数字を見つけるとそれが新しい最大値になる
+				int chk = 0; //MEMO 変数chkのスコープはfor文のみなので、その中に宣言した方がいい。
 				chk = array[i5];
 				if(amax < chk){
 					amax = chk;
