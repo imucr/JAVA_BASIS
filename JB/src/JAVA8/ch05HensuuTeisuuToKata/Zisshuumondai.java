@@ -3,10 +3,10 @@ package JAVA8.ch05HensuuTeisuuToKata;
 public class Zisshuumondai {
 
 	public static void main(String[] args){
-		System.out.println("問題102-105　定数タイプbyteの定義範囲確認"); 
-		byte b1=-125;
-		//byte b1="あ";
-		System.out.println(b1); 
+
+		//定数型 byteの定義範囲確認
+			byte b1 = -125; //MEMO「=」前後にスペース入れること。
+			System.out.println(b1); 
 	}
 	
 }
