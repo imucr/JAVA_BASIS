@@ -23,17 +23,6 @@ public class Zisshuumondai2 {
 		  double afterDecimal = pi - (double)integerPart;
 		  System.out.println("整数部分 = "+integerPart);
 		  System.out.println("小数点以下 = "+afterDecimal);
-	
-		  
-	  //ビット演算：排他的論理和
-		  char genBun = 'あ';
-		  char angouKey = 0xAAAA;
-		  
-		  char ankouBun = (char)(genBun ^ angouKey);
-		  		//MEMO ビット演算で、char・byte・short型はint型に変換されてから演算される
-		  		//MEMO「^(XOR、排他的論理和)」は、どちらか一方のビットが１の時、結果が１になる
-		  System.out.println(Integer.toHexString(ankouBun)); 
-		  System.out.println(ankouBun); 
 		  
   }
 }
