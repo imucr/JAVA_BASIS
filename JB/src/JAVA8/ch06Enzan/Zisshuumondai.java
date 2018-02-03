@@ -4,7 +4,7 @@ public class Zisshuumondai {
 	
 	public static void main(String args[]){
 		
-		//関係演算子「==」：String型で使うとオブジェクト比較で、文字列比較ではない。
+		//関係演算子『==』：「アドレス」比較。
 			String st1 = "abc";
 			String st2 = "ab";
 			st2 = st2 + "c";
@@ -15,7 +15,7 @@ public class Zisshuumondai {
 			bn = st2 == "abc";
 			System.out.println(bn);
 			
-			bn = st2.equals("abc"); //MEMO Stringクラスの「equals」メソッドは、文字列比較。
+			bn = st2.equals("abc"); //MEMO Stringクラスの『equals』メソッドは、「値」比較。
 			System.out.println(bn); 
 	}
 }

@@ -44,7 +44,10 @@ public class Zisshuumondai {
 
 			
 		//for文で、二次元配列内容の表示
-			int[][] nizigen = {{1, 2, 3, 4}, {5, 6, 7, 8}, {9, 10, 11, 12}};
+			int[][] nizigen = {{1, 2, 3, 4},
+			                   {5, 6, 7, 8},
+			                   {9, 10, 11, 12}};
+			
 			for (int i4 = 0; i4 < nizigen.length; i4++){ //MEMO 二次元配列の「行」の数
 				for (int j4 = 0; j4 < nizigen[i4].length; j4++){ //MEMO 二次元配列の「列」の数
 					System.out.println(nizigen[i4][j4]); 
