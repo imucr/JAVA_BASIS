@@ -3,7 +3,7 @@ package JAVA8.ch09ClassToObject;
 
 /*
 Instanceメンバ：
-	対象クラスのオブジェクト生成後、アクセス可
+	対象クラスのオブジェクト(Instance)生成後、アクセス可
 */
 
 class InstanceMember03a {

@@ -8,8 +8,8 @@ package JAVA8.ch10ClassNoKankeiWoFukameru;
 		public static void main(String[] args){
 			System.out.println( Math.PI ); 
 				/*MEMO 
-				  ①staticクラスMathはimport省略可 //QUESTION staticは変数とメソッドにだけつけることできるんじゃなかったか。
-			      ②ただし、staticクラスの中のstatic変数PIは前のクラス名省略不可
+				  ①staticクラスMathはimport省略可
+			      ②ただし、staticクラスの中のstatic変数PIは前のクラス名省略不可(static変数の利用する時の注意点)
 			    */
 		}
 }

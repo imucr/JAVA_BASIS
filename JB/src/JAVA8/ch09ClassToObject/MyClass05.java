@@ -8,10 +8,9 @@ staticメンバ：
 */
 	class MyClass05b {
 	  void method02() {
-	    MyClass05 obj = new MyClass05();
-	    System.out.println( "method02 i = " + obj.i++ );
-	    		//QUESTION staticは同じクラス以内でしか、修飾字無し可？
-	    		//MEMO Eclipseは、「MyClass05.i++」への修正をお勧め。
+		MyClass05 obj = new MyClass05();
+	    System.out.println( "method02 i = " + MyClass05.i++ ); 
+	    		//MEMO static変数は、「クラス名.static変数名」表記。
 	    obj.method01();
 	  }
 	}

@@ -1,6 +1,6 @@
 package JAVA8.ch10ClassNoKankeiWoFukameru;
 
-//Overload: メソッドの多重定義
+//Overload：メソッドの多重定義。パラメータが違うと別のメソッドなので。
 
 	class MyOverload2C {
 		void myArea(int r) {

@@ -7,6 +7,6 @@ package JAVA8.ch10ClassNoKankeiWoFukameru;
 	public class MyStaticImport2 {
 	
 	  public static void main(String[] args) {
-		  System.out.println(PI);
+		  System.out.println(PI); //MEMO static import使わないで「Math.PI」使用が望ましい。誤解を招く原因となるので。
 	  }
 }

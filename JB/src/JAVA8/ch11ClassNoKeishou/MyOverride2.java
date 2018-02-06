@@ -20,7 +20,7 @@ package JAVA8.ch11ClassNoKeishou;
 	
 	  public static void main(String[] args) {
 		  MyOrSub2 obj = new MyOrSub2();
-		  obj.getPi(); //QUESTION piがローカル変数なのでメソッドを先実行？
+		  obj.getPi();
 		  System.out.println(obj.pi);
 	  }
 	}
