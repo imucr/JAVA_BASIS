@@ -33,4 +33,4 @@ JAVA基礎概念実習
 1. データベース
 1. ユーティリティ
 
-＊詳細内容：[PDFリンク参考](https://1drv.ms/b/s!AoYdqFd7qCjrg9c27AnZ7nlIyr2Fig)
+＊詳細インデックス：[リンク](http://www.wings.msn.to/index.php/-/A-03/978-4-7741-8030-4/)
