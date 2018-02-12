@@ -30,6 +30,6 @@ staticメンバ：
 		  MyClass05b obj2 = new MyClass05b();
 		  obj2.method02();
 		  
-		  System.out.println( "main i = " + obj.i++ ); 
+		  System.out.println( "main i = " + MyClass05.i++ ); 
 	  }
 	}
