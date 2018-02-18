@@ -1,4 +1,4 @@
-package JAVA8.ch08Seigyobun;
+package java8.ch08Seigyobun;
 
 public class Zisshuumondai {
 	public static void main(String[] args){

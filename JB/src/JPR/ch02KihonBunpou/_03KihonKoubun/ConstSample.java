@@ -1,4 +1,4 @@
-package JPR.ch02KihonBunpou._03KihonKoubun;
+package jpr.ch02KihonBunpou._03KihonKoubun;
 
 /*
 定数：

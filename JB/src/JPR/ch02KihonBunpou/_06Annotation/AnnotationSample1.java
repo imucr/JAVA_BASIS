@@ -1,4 +1,4 @@
-package JPR.ch02KihonBunpou._06Annotation;
+package jpr.ch02KihonBunpou._06Annotation;
 
 /*
 Annotation

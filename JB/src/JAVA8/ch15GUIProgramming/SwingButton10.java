@@ -1,4 +1,4 @@
-package JAVA8.ch15GUIProgramming;
+package java8.ch15GUIProgramming;
 
 import java.awt.BorderLayout;
 

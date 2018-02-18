@@ -1,4 +1,4 @@
-package JAVA8.ch06Enzan2;
+package java8.ch06Enzan2;
 
 public class Zisshuumondai2 {
 

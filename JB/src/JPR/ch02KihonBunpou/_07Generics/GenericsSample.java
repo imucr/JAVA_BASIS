@@ -1,4 +1,4 @@
-package JPR.ch02KihonBunpou._07Generics;
+package jpr.ch02KihonBunpou._07Generics;
 
 /*
 Generics：

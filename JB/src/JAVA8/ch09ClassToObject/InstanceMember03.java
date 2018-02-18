@@ -1,4 +1,4 @@
-package JAVA8.ch09ClassToObject;
+package java8.ch09ClassToObject;
 
 
 /*

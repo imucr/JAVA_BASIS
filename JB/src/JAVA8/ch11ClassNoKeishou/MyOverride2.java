@@ -1,4 +1,4 @@
-package JAVA8.ch11ClassNoKeishou;
+package java8.ch11ClassNoKeishou;
 
 //Override：再定義。一番最後のメソッドが適用される。
 

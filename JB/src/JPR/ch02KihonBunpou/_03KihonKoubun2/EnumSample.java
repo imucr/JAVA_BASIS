@@ -1,4 +1,4 @@
-package JPR.ch02KihonBunpou._03KihonKoubun2;
+package jpr.ch02KihonBunpou._03KihonKoubun2;
 
 //enum(列挙型)：
 public class EnumSample {

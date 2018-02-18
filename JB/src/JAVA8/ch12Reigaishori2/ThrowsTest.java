@@ -1,4 +1,4 @@
-package JAVA8.ch12Reigaishori2;
+package java8.ch12Reigaishori2;
 
 //throws：呼び出し側で例外処理
 	public class ThrowsTest {

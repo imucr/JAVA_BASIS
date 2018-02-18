@@ -1,4 +1,4 @@
-package JPR.ch02KihonBunpou._01DataGataToHensuu;
+package jpr.ch02KihonBunpou._01DataGataToHensuu;
 
 //変数のスコープ
 public class ScopeSample {

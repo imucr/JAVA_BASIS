@@ -1,4 +1,4 @@
-package JPR.ch02KihonBunpou._03KihonKoubun2;
+package jpr.ch02KihonBunpou._03KihonKoubun2;
 
 //Switch文
 public class SwitchSample {

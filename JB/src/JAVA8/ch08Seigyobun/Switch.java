@@ -1,4 +1,4 @@
-package JAVA8.ch08Seigyobun;
+package java8.ch08Seigyobun;
 
 //Switch文：式の真偽ではなく、「値」によって処理分岐。
 public class Switch {

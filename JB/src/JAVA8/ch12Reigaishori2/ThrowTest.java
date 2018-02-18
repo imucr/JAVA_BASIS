@@ -1,4 +1,4 @@
-package JAVA8.ch12Reigaishori2;
+package java8.ch12Reigaishori2;
 
 //throw：任意に例外発生させる
 	public class ThrowTest {
