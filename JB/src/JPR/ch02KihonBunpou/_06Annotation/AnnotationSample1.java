@@ -16,7 +16,9 @@ class FigureSample {
 class SquareSample extends FigureSample {
 	
 	@Deprecated
-	public int sample(){ //MEMO 使用可能だが、Eclipse上で取り消し線が引かれる。
+	public int sample(){ 
+		//MEMO 現場では、変更予定なので使わないようみんなに知らせる目的。
+		//MEMO 使用可能だが、Eclipse上で取り消し線が引かれる。
 		return 0;
 	}
 	

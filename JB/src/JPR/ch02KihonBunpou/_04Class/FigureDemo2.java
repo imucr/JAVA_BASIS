@@ -21,7 +21,7 @@ class Square4 implements GetArea {
   }
 
   @Override
-  public float getArea() { //QUESTION インターフェイスで定義するメソッドがpublic必須の理由？
+  public float getArea() { //MEMO interfaceで定義するメソッドがpublic必須の理由：interfaceはルール。ルールは公開が前提。
     return width * height;
   }
 }

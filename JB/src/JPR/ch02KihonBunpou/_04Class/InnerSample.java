@@ -4,6 +4,7 @@ package JPR.ch02KihonBunpou._04Class;
 内部クラス：
 	①クラス間関係明確化
 	②処理を外部公開したくない時有用
+	③使い捨て目的 cf) 匿名クラス
 */
 public class InnerSample {
 
