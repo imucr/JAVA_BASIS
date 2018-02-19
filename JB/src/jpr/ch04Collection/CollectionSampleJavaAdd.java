@@ -6,12 +6,17 @@ import java.util.Collection;
 //Collectionに要素追加
 public class CollectionSampleJavaAdd {
 	public static void main(String[] args) {
-		Collection<String> c1 = new ArrayList<>(); //QUESTION <>に書くことできる理由？
+		Collection<String> c1 = new ArrayList<>(); //MEMO Java SE 7から、クラス名の後の型指定を<>だけで可。
 
 		
 		for(int i = 0; i < 3; i++) {
 			c1.add( Integer.toString(i) );
-				//QUESTION Collection Interfaceの中でロジックは見えない。どうしてaddメソッドが作動？
+				/*MEMO
+				 Collection Interfaceの中でロジックは見えない。（カプセル化）
+				 しかも、ライブラリー化すると公開されたヘッダー定義以外には見れない
+				 */
+				
+				//TODO カプセル化の例示
 			
 		}
 		
