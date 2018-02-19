@@ -1,4 +1,4 @@
-package JPR.ch02KihonBunpou._03KihonKoubun2;
+package jpr.ch02KihonBunpou._03KihonKoubun2;
 
 //Block：処理の範囲・変数のスコープの指定可能
 public class Block {

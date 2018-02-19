@@ -1,4 +1,4 @@
-package JAVA8.ch13ThreadToKeishou;
+package java8.ch13ThreadToKeishou;
 
 //Threadクラス：複数処理並行可。
 

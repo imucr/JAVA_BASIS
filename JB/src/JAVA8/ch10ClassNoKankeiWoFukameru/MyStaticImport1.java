@@ -1,4 +1,4 @@
-package JAVA8.ch10ClassNoKankeiWoFukameru;
+package java8.ch10ClassNoKankeiWoFukameru;
 
 //Import：Packageを簡単利用可。Package名を前につけなくて良い。
 

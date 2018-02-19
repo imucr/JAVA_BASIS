@@ -1,4 +1,4 @@
-package JAVA8.ch04DataHyougen;
+package java8.ch04DataHyougen;
 
 public class Zisshuumondai {
 	public static void main(String[] args){

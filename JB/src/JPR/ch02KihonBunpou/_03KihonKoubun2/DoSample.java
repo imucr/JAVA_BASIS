@@ -1,4 +1,4 @@
-package JPR.ch02KihonBunpou._03KihonKoubun2;
+package jpr.ch02KihonBunpou._03KihonKoubun2;
 
 //while文：while文に比べて、一応一度は処理。
 public class DoSample {

@@ -1,4 +1,4 @@
-package JAVA8.ch11ClassNoKeishou;
+package java8.ch11ClassNoKeishou;
 
 //Overrideの例示：親クラスの処理に内容を追加する場合
 	class Subject {

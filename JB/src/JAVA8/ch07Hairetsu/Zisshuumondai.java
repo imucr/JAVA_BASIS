@@ -1,4 +1,4 @@
-package JAVA8.ch07Hairetsu;
+package java8.ch07Hairetsu;
 
 public class Zisshuumondai {
 	

@@ -1,4 +1,4 @@
-package JAVA8.ch13ThreadToKeishou;
+package java8.ch13ThreadToKeishou;
 
 /*
 Runnableインタフェース：

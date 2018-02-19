@@ -1,4 +1,4 @@
-package JPR.ch02KihonBunpou._03KihonKoubun2;
+package jpr.ch02KihonBunpou._03KihonKoubun2;
 
 //Continue：その時点のループ内の処理のみ中断。
 public class ContinueSample {

@@ -1,4 +1,4 @@
-package JPR.ch02KihonBunpou._04Class;
+package jpr.ch02KihonBunpou._04Class;
 
 /*
 void：

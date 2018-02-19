@@ -1,4 +1,4 @@
-package JAVA8.ch12Reigaishori;
+package java8.ch12Reigaishori;
 
 //例外処理：除算エラーが発生する場合
 	public class Except20a {

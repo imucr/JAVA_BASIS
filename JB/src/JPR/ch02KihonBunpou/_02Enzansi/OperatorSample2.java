@@ -1,4 +1,4 @@
-package JPR.ch02KihonBunpou._02Enzansi;
+package jpr.ch02KihonBunpou._02Enzansi;
 
 //cast
 public class OperatorSample2 {

@@ -1,4 +1,4 @@
-package JAVA8.ch05HensuuTeisuuToKata;
+package java8.ch05HensuuTeisuuToKata;
 
 import java.nio.ByteBuffer;
 

@@ -1,4 +1,4 @@
-package JAVA8.ch14Nyuushutsuryoku;
+package java8.ch14Nyuushutsuryoku;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

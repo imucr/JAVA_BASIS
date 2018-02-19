@@ -1,4 +1,4 @@
-package JAVA8.ch10ClassNoKankeiWoFukameru;
+package java8.ch10ClassNoKankeiWoFukameru;
 
 //Static Import：Static変数名にクラス名を付けずに参照出来るようになる
 	

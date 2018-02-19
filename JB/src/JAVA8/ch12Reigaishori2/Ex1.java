@@ -1,4 +1,4 @@
-package JAVA8.ch12Reigaishori2;
+package java8.ch12Reigaishori2;
 
 //例外処理(try、catch、finally)
 	public class Ex1 {

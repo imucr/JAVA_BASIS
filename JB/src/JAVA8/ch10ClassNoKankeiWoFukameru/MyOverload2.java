@@ -1,4 +1,4 @@
-package JAVA8.ch10ClassNoKankeiWoFukameru;
+package java8.ch10ClassNoKankeiWoFukameru;
 
 //Overload：メソッドの多重定義。パラメータが違うと別のメソッドなので。
 

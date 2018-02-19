@@ -1,4 +1,4 @@
-package JPR.ch02KihonBunpou._04Class;
+package jpr.ch02KihonBunpou._04Class;
 
 //アクセス修飾字：カプセル化(データ・処理をクラス内に隠蔽)実現
 class AccessSample { //MEMO クラスの定義には、publicまたは何もつけない、のどちらか。
