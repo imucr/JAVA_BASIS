@@ -1,5 +1,6 @@
 package sougouZisshuu.sigekiJava.ch5ObjectToClass;
 
+//【販売価格出力】：オブジェクト生成(インスタンス化)の例示
 public class GoodsInfo {
 
 	String code;
