@@ -1,6 +1,6 @@
 package sougouZisshuu.sigekiJava.ch5ObjectToClass;
 
-
+//【四角形の面積計算】：インスタンス化の時のパラメータの制限、privateなデータを取り出すためのGetメソッド使用の例示
 class Rectangle {
 	private int width, height;
 		//オブジェクトの外部から値を指定できないようにする。
