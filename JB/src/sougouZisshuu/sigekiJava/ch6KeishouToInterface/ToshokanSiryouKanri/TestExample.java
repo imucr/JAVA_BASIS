@@ -1,4 +1,4 @@
-package sougouZisshuu.sigekiJava.ch6KeishouToInterface.ToshokanSiryouKanri;
+package sougouZisshuu.sigekiJava.ch6KeishouToInterface.toshokanSiryouKanri;
 
 /*
 【図書館貸出・返却】：継承とインターフェスの比較例示

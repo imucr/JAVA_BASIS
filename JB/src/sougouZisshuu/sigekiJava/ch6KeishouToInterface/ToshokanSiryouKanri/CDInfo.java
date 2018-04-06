@@ -1,4 +1,4 @@
-package sougouZisshuu.sigekiJava.ch6KeishouToInterface.ToshokanSiryouKanri;
+package sougouZisshuu.sigekiJava.ch6KeishouToInterface.toshokanSiryouKanri;
 
 public class CDInfo {
 	String registerNo;
