@@ -1,4 +1,4 @@
-package sougouZisshuu.sigekiJava.ch6KeishouToInterface.ToshokanSiryouKanri;
+package sougouZisshuu.sigekiJava.ch6KeishouToInterface.toshokanSiryouKanri;
 
 class SeparateVolume implements Lendable {
 	String requestNo;
@@ -16,13 +16,13 @@ class SeparateVolume implements Lendable {
 
 	@Override
 	public void checkOut(String borrower, String date) {
-		if (state != 0) {
+		if (state != STATE_NORMAL) {
 			return;
 		}
 		
 		this.borrower = borrower;
 		this.checkOutDate = date;
-		this.state = 1;
+		this.state = STATE_BORROWED;
 		
 		System.out.println("＊「" + bookTitle + "」が貸し出されました。");
 		System.out.println("貸出人：" + borrower);
@@ -34,7 +34,7 @@ class SeparateVolume implements Lendable {
 	public void checkIn() {
 		this.borrower = null;
 		this.checkOutDate = null;
-		this.state = 0;
+		this.state = STATE_NORMAL;
 		System.out.println("＊「" + bookTitle + "」が返却されました。" + "\n");
 	}
 	
