@@ -1,11 +1,15 @@
 package sougouZisshuu.sigekiJava.ch7ReferenceType.kouzaJouhou;
 
-class Account {
-	String accountNo;
-	String ownerName;
-	int balance;
+/*
+クラスとフィールドにpublicが付いている理由：
+sougouZisshuu\sigekiJava\ch10FileIOClass\AccountInfo2.javaで呼び出されているため。
+*/
+public class Account {
+	public String accountNo;
+	public String ownerName;
+	public int balance;
 	
-	Account(String accountNo, String ownerName, int balance) {
+	public Account(String accountNo, String ownerName, int balance) {
 		this.accountNo = accountNo;
 		this.ownerName = ownerName;
 		this.balance = balance;		
