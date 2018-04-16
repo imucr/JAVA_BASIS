@@ -1,6 +1,10 @@
 package sougouZisshuu.sigekiJava.ch13Collection.posting;
 
-
+/*
+【ネット掲示板】
+　・ポストを作成して、その内容を出力。
+　・LinkedListのメソッド使用の例示。
+*/
 class Posting {
 
 	public static void main(String[] args) {
