@@ -3,8 +3,9 @@ package sougouZisshuu.sigekiJava.ch13Collection.seisekiChousa2;
 import java.util.HashMap;
 
 /*
-【】
-	・
+【ハーマイオニーで検索して、彼女の成績を出力２】
+	・HashMapのキーをクラスにする例示。
+		・ObjectクラスのhashCode、equalsメソッドをOverrideして、成績の値がnullにならないようにする必要。
 */
 class HashMapExample2 {
 
