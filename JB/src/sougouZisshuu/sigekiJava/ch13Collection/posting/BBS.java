@@ -17,7 +17,7 @@ class BBS {
 		items.set(index, item);
 	}
 	
-//  TODO getメソッド使用
+//  TODO getメソッド使用：インデックスに該当する値がオブジェクトの場合、どうやって出力するか。
 //	void get(int index) {
 //		items.get(index);
 //	}

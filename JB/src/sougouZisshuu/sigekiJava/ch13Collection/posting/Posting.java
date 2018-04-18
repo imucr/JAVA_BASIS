@@ -20,6 +20,7 @@ class Posting {
 		System.out.println(bi.content);
 		System.out.println();
 		
+	
 		bi.title = "私がこれからすることは？";
 		bi.writer = "マカロン好き";
 		bbs.modify(0, bi);
